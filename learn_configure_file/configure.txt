@@ -1,0 +1,7 @@
+[A]
+name = hezhiqiang
+age = 12
+
+[B]
+name = zhangsan
+age = 14
