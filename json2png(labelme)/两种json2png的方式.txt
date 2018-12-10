@@ -1,0 +1,2 @@
+方式1：json2png.py程序
+方式2：替换labelme包中的json_to_dataset.py文件
