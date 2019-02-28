@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94198313-2fc1-4523-89a1-ba86e63d25d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/.idea/my_extract_patches.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/dataset_path/images/94-008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/dataset_path/images/94-012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/dataset_path/masks/94-008_hemorrhage_binary.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/dataset_path/masks/94-012_hemorrhage_binary.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/extract_patches.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/img_ordered.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/img_ordered_patches.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/img_random.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/img_random_patches.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/mask_ordered.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/mask_ordered_patches.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/mask_random.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/mask_random_patches.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/test_extract_ordered.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_extract_patches/test_extract_random.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,9 +62,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="224" />
-    <option name="y" value="296" />
-    <option name="width" value="1663" />
+    <option name="x" value="226" />
+    <option name="y" value="337" />
+    <option name="width" value="1653" />
     <option name="height" value="595" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -92,6 +73,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,12 +90,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../unet" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -279,16 +260,18 @@
       <workItem from="1544331614704" duration="4223000" />
       <workItem from="1544405525063" duration="24937000" />
       <workItem from="1544435830923" duration="20000" />
+      <workItem from="1544491456504" duration="35000" />
+      <workItem from="1544491523175" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29180000" />
+    <option name="totallyTimeSpent" value="29226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37174514" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17728531" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
